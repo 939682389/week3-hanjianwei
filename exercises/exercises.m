@@ -3,7 +3,7 @@ function output = exercises()
 I___TODO___I = NaN;
 
 % 1.1 生成一个由31和75之间所有的偶数组成的向量，按照降序排列
-output.evens_between_31_and_75  = I___TODO___I;
+output.evens_between_31_and_75  = 74:-2:31;
 % 1.2 生成数列1, 1/2, 1/3, ...的前100项
 output.fraction_100 = I___TODO___I;
 % 1.3 生成数列0, 1/2, 2/3, 3/4, 4/5, ...的前100项
